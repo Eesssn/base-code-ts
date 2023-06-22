@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.buttonRow {
+  background: red;
+}
+.wrapper {
+  background: blue;
+  flex: 1;
+}
